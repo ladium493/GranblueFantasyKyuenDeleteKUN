@@ -1,0 +1,2 @@
+# GranblueFantasyKyuenDeleteKUN
+ぐらぶるの救援ツイートを削除します。
